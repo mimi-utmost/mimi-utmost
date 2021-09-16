@@ -1,6 +1,6 @@
-- 👋 Oi, eu sou o Willian Miranda
-- 🌱 Estudando <b>JavaScript</b> e <b>Python</b>
-- 🎧 Meu contato Discord <b>mimiutmost#6566</b>
+- <h1> Oi eu sou o Willian Miranda </h1>
+- <h2>📚 Atualmente estou cursando Engenharia Civil e estudando <b>JavaScript</b> e <b>Python</b></h2>
+- <h2>🎧 Meu contato Discord <b>mimiutmost#6566</b></h2>
  <div>
   <a href="https://github.com/mimi-utmost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimi-utmost&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
