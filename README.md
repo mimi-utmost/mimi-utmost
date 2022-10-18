@@ -1,5 +1,5 @@
 - <p> Oi eu sou o Willian Miranda </h1>
-- <p>📚 Atualmente estou estudando <b>JavaScript</b> e <b>Python</b></h2>
+- <p>📚 Atualmente estou estudando <b>Front End</b>
 - <p>🎧 Meu contato Discord <b>mimiutmost#6566</b></h2>
 
  <div>
