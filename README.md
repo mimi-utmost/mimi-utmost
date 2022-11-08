@@ -1,23 +1,25 @@
-<h1 align="center">Olá, sou Willian Miranda Rodrigues</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+# 💫 About Me:
+Olá, me chamo Willian Miranda Rodrigues, sou desenvolvedor web e estudante de engenharia de software.
 
-<p align="left"> <img src="https:/ /komarev.com/ghpvc/?username=mimi-utmost&label=Profile%20views&color=0e75b6&style=flat" alt="mimi-utmost" /> </p>
 
-<h3 align="left">Conecte-se comigo:</h3 >
-<p align="left">
-<a href="https://twitter.com/mimi_utmost" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mimi_utmost" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/willian-miranda-rodrigues/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /in/willian-miranda-rodrigues/" height="30" width="40" /></a>
-<a href="https://discord.gg/mimiutmost#6566" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mimiutmost#6566" height="30" largura="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-miranda-rodrigues) 
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" destino ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ > </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> < a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript /typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40 " altura="40"/> </a> </p><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40 " altura="40"/> </a> </p>//raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href=" https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original .svg" alt="typescript" width="40" height="40"/> </a> </p>//raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href=" https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original .svg" alt="typescript" width="40" height="40"/> </a> </p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </ a> </p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </ a> </p>
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mimi-utmost&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mimi-utmost&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-utmost&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Suporte:</h3>
-<p> <a href="https://ko-fi.com/mimiutmost"> <img align="left" src="https://cdn .ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mimiutmost" /></a> </p><br><br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimi-utmost&show_icons=true&locale=en&layout=compact" alt="mimi- extreme" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=mimi-utmost&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimi-utmost&show_icons=true&locale=en" alt ="mimi-utmost" /></p>
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mimiutmost) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimi-utmost&" alt= "mimi-máximo" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
