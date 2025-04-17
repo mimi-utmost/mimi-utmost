@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Willian Miranda Rodrigues, sou desenvolvedor web e estudante de engenharia de software.
+Olá, me chamo Willian Miranda Rodrigues, sou desenvolvedor web e estudante de Ciência da computação.
 
 
 ## 🌐 Socials:
