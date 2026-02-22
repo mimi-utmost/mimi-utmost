@@ -23,6 +23,7 @@ I am a dedicated Computer Science student and web developer passionate about arc
 > Feel free to reach out for collaborations or just a friendly chat about technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-miranda-rodrigues)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mimi_utmost)
+[![X (Twitter)](https://img.shields.io/badge/-@mimi_utmost-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mimi_utmost)
 [![Email](https://img.shields.io/badge/Email-willian.rodrigues.cs@proton.me-blue?style=for-the-badge&logo=protonmail)](mailto:willian.rodrigues.cs@proton.me)
+[![Discord](https://img.shields.io/badge/Discord-@mimiutmost-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mimiutmost)
 ---
